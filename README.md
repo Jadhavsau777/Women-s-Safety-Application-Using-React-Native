@@ -50,9 +50,9 @@
 <h2>Application UI</h2>
 <div class="image-gallery">
 <p class="image-caption">Figure 1: Main Screen of the Your Safety App</p>
-<img src="./components/Your_Safety_Application_User_Interface.jpeg" height="75px" align="center" alt="Screenshot of Your Safety Application UI">
+<img src="./components/Your_Safety_Application_User_Interface.jpeg" style="display: block; margin: 0 auto; max-width: 50%; height: auto;">
 <p class="image-caption">Figure 2: Main Screen Menu of Your Safety App</p>
-<img src="./components/Your_Safety_Application_User_Menu.jpeg" height="75px" align="center" alt="Screenshot of Your Safety App - SOS Button">
+<img src="./components/Your_Safety_Application_User_Menu.jpeg" style="display: block; margin: 0 auto; max-width: 50%; height: auto;">
 </div>
 
 
