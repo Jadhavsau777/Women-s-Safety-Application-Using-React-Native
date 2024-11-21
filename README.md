@@ -47,9 +47,9 @@
 <p>Contributions are welcome! Feel free to open issues or submit pull requests to enhance the app.</p>
 <div class="image-gallery">
 <p class="image-caption">Figure 1: Main Screen of the Your Safety App</p>
-<img src="./components/Your_Safety_Application_User_Interface.jpeg" style="display: block; margin: 0 auto; max-width: 20%; height: 50%;">
+<img src="./components/Your_Safety_Application_User_Interface.jpeg" style="display: block; margin: 0 auto; max-width: 20%; height: 10%;">
 <p class="image-caption">Figure 2: Main Screen Menu of Your Safety App</p>
-<img src="./components/Your_Safety_Application_User_Menu.jpeg" style="display: block; margin: 0 auto; max-width: 20%; height: 50%;">
+<img src="./components/Your_Safety_Application_User_Menu.jpeg" style="display: block; margin: 0 auto; max-width: 20%; height: 10%;">
 </div>
 
 
