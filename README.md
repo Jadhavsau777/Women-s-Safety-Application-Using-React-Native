@@ -1,6 +1,5 @@
-
-    <h1>Your Safety</h1>
-    <p><strong>Your Safety</strong> is a React Native application designed to prioritize women's safety. The app enables users to share their real-time location, send emergency alerts, and access essential contact features, ensuring swift help in critical situations.</p>
+<h1>Your Safety</h1>
+<p><strong>Your Safety</strong> is a React Native application designed to prioritize women's safety. The app enables users to share their real-time location, send emergency alerts, and access essential contact features, ensuring swift help in critical situations.</p>
 
     <h2>Features</h2>
     <ul>
