@@ -39,18 +39,12 @@
 </div>
 <h2>Contributions</h2>
 <p>Contributions are welcome! Feel free to open issues or submit pull requests to enhance the app.</p>
-<h2>License</h2>
-<p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
 <h2>Application UI</h2>
 <div class="image-gallery">
-<img src="./components/Your_Safety_Application_User_Interface.jpeg" alt="Screenshot of Your Safety Application UI">
-<p class="image-caption">Figure 5: User Interface of the Your Safety Application</p>
-<img src="ui-screenshot1.png" alt="Screenshot of Your Safety App - Main Screen">
 <p class="image-caption">Figure 1: Main Screen of the Your Safety App</p>
-<img src="ui-screenshot2.png" alt="Screenshot of Your Safety App - Map View">
-<p class="image-caption">Figure 2: Map View with Location Pin</p>
-<img src="ui-screenshot3.png" alt="Screenshot of Your Safety App - SOS Button">
-<p class="image-caption">Figure 3: SOS Alert Feature</p>
+<img src="./components/Your_Safety_Application_User_Interface.jpeg" height="75px" align="center" alt="Screenshot of Your Safety Application UI">
+<p class="image-caption">Figure 2: Main Screen Menu of Your Safety App</p>
+<img src="./components/Your_Safety_Application_User_Menu.jpeg" height="75px" align="center" alt="Screenshot of Your Safety App - SOS Button">
 </div>
 
 
