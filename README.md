@@ -1,41 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Safety - README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-            background-color: #f9f9f9;
-            color: #333;
-        }
-        h1, h2 {
-            color: #4A90E2;
-        }
-        code {
-            background: #eee;
-            padding: 2px 4px;
-            border-radius: 4px;
-        }
-        pre {
-            background: #f4f4f4;
-            padding: 10px;
-            border-left: 4px solid #4A90E2;
-            overflow-x: auto;
-        }
-        a {
-            color: #4A90E2;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
+
     <h1>Your Safety</h1>
     <p><strong>Your Safety</strong> is a React Native application designed to prioritize women's safety. The app enables users to share their real-time location, send emergency alerts, and access essential contact features, ensuring swift help in critical situations.</p>
 
@@ -80,8 +43,7 @@
 
     <h2>License</h2>
     <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
-</body>
-</html>
+
 
 
 
