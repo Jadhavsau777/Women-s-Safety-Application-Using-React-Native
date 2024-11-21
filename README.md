@@ -32,13 +32,21 @@
 <pre><code>npm install</code></pre>
 <pre><code>expo start</code></pre>
 <h2>Accessing the Application</h2>
-<p>You can access the application by scanning the QR code below. Use the Expo Go app on your smartphone to scan and launch the application instantly.</p>
-<div class="image-gallery">
-<img src="qr-code.png" alt="QR Code for Your Safety Application">
-<p class="image-caption">Figure 4: Scan this QR Code to access the Your Safety app.</p>
+<p>You can access the application directly by following these steps:</p>
+<ol>
+<li>Download and install the <strong>Expo Go</strong> app on your smartphone from the <a href="https://play.google.com/store/apps/details?id=host.exp.exponent">Google Play Store</a> or <a href="https://apps.apple.com/us/app/expo-go/id982107779">Apple App Store</a>.</li>
+<li>Open the Expo Go app on your smartphone.</li>
+<li>Scan the QR code below using the scanner provided in the Expo Go app.</li>
+<li>Once scanned, the application will automatically load and run on your smartphone.</li>
+</ol>
+<div class="image-gallery" style="text-align: center;">
+<img src="./components/Your_Safety_Application_QR_Code.jpeg" alt="QR Code for Your Safety Application" style="max-width: 50%; height: auto;">
+<p class="image-caption">Figure 4: Scan this QR Code to access the Your Safety app using Expo Go.</p>
 </div>
 <h2>Contributions</h2>
 <p>Contributions are welcome! Feel free to open issues or submit pull requests to enhance the app.</p>
+<h2>License</h2>
+<p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
 <h2>Application UI</h2>
 <div class="image-gallery">
 <p class="image-caption">Figure 1: Main Screen of the Your Safety App</p>
@@ -46,9 +54,6 @@
 <p class="image-caption">Figure 2: Main Screen Menu of Your Safety App</p>
 <img src="./components/Your_Safety_Application_User_Menu.jpeg" height="75px" align="center" alt="Screenshot of Your Safety App - SOS Button">
 </div>
-
-
-
 
 
 
