@@ -43,7 +43,7 @@
 <img src="./components/Your_Safety_Application_QR_Code.jpeg" alt="QR Code for Your Safety Application" style="max-width: 50%; height: auto;">
 <p class="image-caption">Figure 4: Scan this QR Code to access the Your Safety app using Expo Go.</p>
 </div>
----
+
 
 
 
