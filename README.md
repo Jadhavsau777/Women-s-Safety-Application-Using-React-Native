@@ -43,14 +43,7 @@
 <img src="./components/Your_Safety_Application_QR_Code.jpeg" alt="QR Code for Your Safety Application" style="max-width: 50%; height: auto;">
 <p class="image-caption">Figure 4: Scan this QR Code to access the Your Safety app using Expo Go.</p>
 </div>
-<h2>Contributions</h2>
-<p>Contributions are welcome! Feel free to open issues or submit pull requests to enhance the app.</p>
-<div class="image-gallery">
-<p class="image-caption">Figure 1: Main Screen of the Your Safety App</p>
-<img src="./components/Your_Safety_Application_User_Interface.jpeg" style="display: block; margin: 0 auto; max-width: 20%; height: 10%;">
-<p class="image-caption">Figure 2: Main Screen Menu of Your Safety App</p>
-<img src="./components/Your_Safety_Application_User_Menu.jpeg" style="display: block; margin: 0 auto; max-width: 20%; height: 10%;">
-</div>
+---
 
 
 
